@@ -1,0 +1,46 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'/home/uffizio/eclipse-workspace/smart-contract/src/main/java:/home/uffizio/eclipse-workspace/smart-contract/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'/home/uffizio/eclipse-workspace/smart-contract/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'smart-contract 1.0.0 API'
+-use
+-version
+-windowtitle
+'smart-contract 1.0.0 API'
+com.qaverse.smart.contracts.assertion
+/home/uffizio/eclipse-workspace/smart-contract/src/main/java = 1777804859304
+/home/uffizio/eclipse-workspace/smart-contract/target/generated-sources/annotations = 1777805855126
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/allpackages-index.html = 1777805880856
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/tag-search-index.js = 1777805880857
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/package-search-index.js = 1777805880856
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/script.js = 1777805880866
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/element-list = 1777805880831
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/link.svg = 1777805880867
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/search.html = 1777805880862
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/overview-tree.html = 1777805880848
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/search.js = 1777805880867
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/member-search-index.js = 1777805880856
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/copy.svg = 1777805880866
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/module-search-index.js = 1777805880856
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/help-doc.html = 1777805880865
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/index-all.html = 1777805880861
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/search-page.js = 1777805880868
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/stylesheet.css = 1777805880866
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/type-search-index.js = 1777805880856
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/index.html = 1777805880863
+/home/uffizio/eclipse-workspace/smart-contract/target/apidocs/allclasses-index.html = 1777805880855
